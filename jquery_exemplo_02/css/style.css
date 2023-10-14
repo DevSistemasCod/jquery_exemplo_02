@@ -1,0 +1,7 @@
+
+#destaque {
+  background-color: white; /* Inicia com fundo branco */
+}
+#destaque.ativo {
+  background-color: yellow; /* Cor de fundo amarela após o clique */
+}
